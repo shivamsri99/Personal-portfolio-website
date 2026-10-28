@@ -22,7 +22,7 @@ Contact information
 
 Simple and clean design
 
-Responsive layout (if implemented)
+Responsive layout 
 
 Project Structure
 
